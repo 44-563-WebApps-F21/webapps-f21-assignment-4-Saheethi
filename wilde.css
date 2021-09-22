@@ -1,0 +1,43 @@
+.speech
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    color: black;
+}
+.stage-direction:hover
+{
+    font-family: monospace;
+    font-size: medium;
+    color: black;
+    background-color: burlywood;
+}
+.name
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: black;
+}
+.BARONRAFF
+{
+color: midnightblue;
+}
+.PRINCEPETRO
+{
+color: rebeccapurple;
+}
+.MARQDEPOIV
+{
+color: saddlebrown;
+}
+.CZAR
+{
+color: slateblue;
+}
+.COLONEL
+{
+color: indigo;
+}
+.PAGE
+{
+color: darkviolet;
+}
