@@ -80,3 +80,43 @@ color: darkviolet;
     padding: 3px;
     border: 1px solid black;
 }
+
+.BARONRAFF:hover
+{
+    border: 1px solid Black;
+    color:Red;
+    text-shadow: 1px 1px 1px orange;
+}
+
+.COLONEL:hover
+{
+    border: 1px solid Black;
+    color:Red;
+    text-shadow: 1px 1px 1px orange;
+}
+.CZAR:hover{
+    border: 1px solid Black;
+    color:Red;
+    text-shadow: 1px 1px 1px orange;
+}
+.MARQDEPOIV:hover{
+    border: 1px solid Black;
+    color:Red;
+    text-shadow: 1px 1px 1px orange;
+}
+.PAGE:hover{
+    border: 1px solid Black;
+    color:Red;
+    text-shadow: 1px 1px 1px orange;
+}
+.PRINCEPETRO:hover{
+    border: 1px solid Black;
+    color:Red;
+    text-shadow: 1px 1px 1px orange;
+}
+.speech:hover{
+    border: 1px solid white;
+    background-color: black;
+    color:white;
+    text-shadow: 1px 1px 1px Red;
+}
