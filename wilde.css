@@ -1,3 +1,8 @@
+body
+{
+    background-color:lavender;
+}
+
 .speech
 {
     font-family: 'Times New Roman', Times, serif;
@@ -40,4 +45,38 @@ color: indigo;
 .PAGE
 {
 color: darkviolet;
+}
+#tableA
+{
+    border: 1px solid black;        
+    width: 30%;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+#tableA tr:nth-child(even)
+{
+    background-color:darkgray;
+}
+#tableA tr:nth-child(odd)
+{
+    background-color:dimgrey;
+}
+#tableA th
+{
+    border: 1px solid black;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: black ;
+    color: white;
+}
+#tableA td
+{
+    padding: 3px;
+    border: 1px solid black;
 }
